@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+.venv/
+venv/
+
+# Generated/local SQLite DB - regenerate with scripts/generate_synthetic_data.py
+data/*.db
+
+# Streamlit local secrets (not present, but never committed if added)
+.streamlit/secrets.toml

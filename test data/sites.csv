@@ -1,0 +1,6 @@
+site_id,name,site_type,country
+SITE-DC-01,Northeast Distribution Center,DC,USA
+SITE-DC-02,Rotterdam Distribution Center,DC,Netherlands
+SITE-DC-03,Singapore Distribution Center,DC,Singapore
+SITE-PL-01,Raleigh Manufacturing Plant,PLANT,USA
+SITE-PL-02,Cork Manufacturing Plant,PLANT,Ireland

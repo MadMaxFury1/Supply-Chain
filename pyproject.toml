@@ -1,0 +1,19 @@
+[project]
+name = "control-tower"
+version = "0.1.0"
+description = "Pharma Supply Chain Autonomous Control Tower - Phase 1 stockout vertical slice"
+requires-python = ">=3.11"
+dependencies = [
+    "anthropic>=0.97.0",
+    "mcp>=2.2.0",
+    "sqlalchemy>=2.0.0",
+    "faker>=40.0.0",
+    "pandas>=2.0.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0.0"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

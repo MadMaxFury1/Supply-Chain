@@ -1,0 +1,81 @@
+product_id,name,ndc_code,dosage_form,therapeutic_area,is_critical
+PRD-0001,OncoStat 50mg,68878-703-45,Infusion Bag,Oncology,True
+PRD-0002,BlueBest 10mg,65392-448-45,Capsule,Cardiology,False
+PRD-0003,HusbandBill 25mg,23396-194-58,Tablet,Immunology,False
+PRD-0004,HerThrow 25mg,89131-370-15,Infusion Bag,Infectious Disease,False
+PRD-0005,GuyPm 5mg,59615-180-80,Injectable,Respiratory,False
+PRD-0006,EverythingSurface 100mg,57400-691-34,Tablet,Oncology,True
+PRD-0007,AnimalShow 10mg,47930-181-39,Tablet,Neurology,False
+PRD-0008,MachineNot 25mg,69429-750-56,Capsule,Immunology,False
+PRD-0009,CapitalWin 25mg,37460-786-44,Tablet,Infectious Disease,False
+PRD-0010,HumanBar 10mg,80010-846-41,Capsule,Neurology,False
+PRD-0011,OldFinally 50mg,45382-755-98,Prefilled Syringe,Cardiology,False
+PRD-0012,ThemselvesProduction 25mg,17331-334-14,Injectable,Neurology,True
+PRD-0013,PresentValue 25mg,18675-316-82,Injectable,Cardiology,False
+PRD-0014,TrainingHigh 50mg,61856-758-68,Capsule,Immunology,False
+PRD-0015,ParticipantDark 10mg,42325-862-81,Prefilled Syringe,Immunology,False
+PRD-0016,SeaAvailable 100mg,66155-697-61,Injectable,Cardiology,False
+PRD-0017,AnswerRecently 10mg,76784-605-21,Tablet,Respiratory,False
+PRD-0018,DriveSpring 5mg,30033-742-30,Infusion Bag,Infectious Disease,True
+PRD-0019,FigureBase 5mg,60432-490-86,Infusion Bag,Infectious Disease,False
+PRD-0020,TopEarly 25mg,82512-981-11,Tablet,Endocrinology,False
+PRD-0021,TrialBlood 100mg,44973-887-92,Injectable,Oncology,False
+PRD-0022,HusbandFall 25mg,66985-261-68,Tablet,Endocrinology,False
+PRD-0023,LongProve 25mg,75612-880-32,Prefilled Syringe,Oncology,False
+PRD-0024,TheyHis 25mg,93748-619-87,Capsule,Cardiology,True
+PRD-0025,CommercialHospital 25mg,31174-652-77,Tablet,Infectious Disease,False
+PRD-0026,HearDetermine 25mg,74042-119-24,Injectable,Respiratory,False
+PRD-0027,ReligiousExample 25mg,41385-159-40,Prefilled Syringe,Oncology,False
+PRD-0028,ScienceWrite 5mg,73699-935-18,Prefilled Syringe,Respiratory,False
+PRD-0029,ResultRaise 10mg,26828-775-70,Prefilled Syringe,Cardiology,False
+PRD-0030,AwayPolitics 25mg,79163-993-87,Infusion Bag,Cardiology,True
+PRD-0031,ProveCongress 100mg,36365-830-49,Infusion Bag,Endocrinology,False
+PRD-0032,NoneShoulder 25mg,67422-629-67,Tablet,Cardiology,False
+PRD-0033,ElectionCommon 10mg,18392-446-12,Prefilled Syringe,Infectious Disease,False
+PRD-0034,MaintainHundred 10mg,87128-325-10,Tablet,Endocrinology,False
+PRD-0035,ExpectWish 5mg,40007-169-14,Injectable,Oncology,False
+PRD-0036,PushRise 100mg,41195-385-95,Infusion Bag,Cardiology,True
+PRD-0037,OntoDiscuss 100mg,27342-840-83,Prefilled Syringe,Neurology,False
+PRD-0038,RevealGarden 10mg,71993-926-62,Capsule,Oncology,False
+PRD-0039,ThreatSpecial 5mg,96374-541-55,Infusion Bag,Neurology,False
+PRD-0040,StandArrive 50mg,17100-789-93,Tablet,Oncology,False
+PRD-0041,DropTerm 50mg,54473-919-23,Capsule,Cardiology,False
+PRD-0042,AlmostSupport 10mg,80292-559-27,Infusion Bag,Cardiology,True
+PRD-0043,FourInstitution 25mg,70637-355-19,Infusion Bag,Respiratory,False
+PRD-0044,ExecutiveAttorney 100mg,22833-151-93,Prefilled Syringe,Respiratory,False
+PRD-0045,DevelopmentWhite 5mg,22224-871-40,Capsule,Neurology,False
+PRD-0046,YesOur 50mg,73092-318-61,Tablet,Cardiology,False
+PRD-0047,UnderSerious 50mg,10282-499-43,Infusion Bag,Immunology,False
+PRD-0048,ForwardDifference 50mg,82845-777-72,Capsule,Cardiology,True
+PRD-0049,RealityMoney 25mg,38534-159-84,Prefilled Syringe,Oncology,False
+PRD-0050,IndividualUsually 25mg,17492-151-84,Infusion Bag,Infectious Disease,False
+PRD-0051,WhoQuestion 100mg,30635-158-75,Tablet,Respiratory,False
+PRD-0052,LowCharacter 10mg,18981-709-18,Capsule,Neurology,False
+PRD-0053,EvidenceChair 5mg,84668-352-84,Prefilled Syringe,Oncology,False
+PRD-0054,EmployeeSize 100mg,20745-529-94,Prefilled Syringe,Infectious Disease,True
+PRD-0055,OptionNothing 100mg,51467-367-36,Injectable,Cardiology,False
+PRD-0056,EveryoneSkin 25mg,61876-234-95,Injectable,Neurology,False
+PRD-0057,PatternLater 25mg,19508-109-68,Prefilled Syringe,Infectious Disease,False
+PRD-0058,WaterPast 5mg,19602-650-37,Prefilled Syringe,Immunology,False
+PRD-0059,InsideHigh 10mg,55745-170-41,Injectable,Immunology,False
+PRD-0060,DiscussCertainly 10mg,67433-953-79,Injectable,Infectious Disease,True
+PRD-0061,MrMinute 100mg,11025-783-80,Injectable,Endocrinology,False
+PRD-0062,BenefitSomeone 5mg,27601-370-24,Tablet,Endocrinology,False
+PRD-0063,AnyoneTraditional 100mg,30374-378-46,Prefilled Syringe,Cardiology,False
+PRD-0064,BreakClaim 25mg,36685-803-91,Injectable,Infectious Disease,False
+PRD-0065,ProductCollection 50mg,42914-966-16,Tablet,Endocrinology,False
+PRD-0066,StructureResponse 50mg,46265-145-10,Injectable,Respiratory,True
+PRD-0067,KnowledgePick 10mg,93507-368-30,Infusion Bag,Infectious Disease,False
+PRD-0068,AttackImage 50mg,83519-109-24,Tablet,Endocrinology,False
+PRD-0069,IPick 10mg,81511-136-57,Prefilled Syringe,Infectious Disease,False
+PRD-0070,ManagementNewspaper 10mg,66333-230-15,Injectable,Immunology,False
+PRD-0071,EnterOn 5mg,56898-315-97,Capsule,Endocrinology,False
+PRD-0072,TraditionalYes 5mg,56357-898-81,Infusion Bag,Infectious Disease,True
+PRD-0073,ActivityResponse 10mg,41029-985-30,Capsule,Neurology,False
+PRD-0074,SetBuilding 5mg,33509-854-52,Infusion Bag,Respiratory,False
+PRD-0075,RestValue 10mg,44970-263-99,Tablet,Neurology,False
+PRD-0076,NotSocial 5mg,71694-327-35,Infusion Bag,Immunology,False
+PRD-0077,ExampleSpecific 25mg,39831-328-13,Capsule,Neurology,False
+PRD-0078,PutGrow 25mg,46517-985-18,Injectable,Immunology,True
+PRD-0079,BrotherFinally 100mg,62386-795-78,Injectable,Oncology,False
+PRD-0080,LearnCoach 5mg,44237-282-84,Injectable,Oncology,False

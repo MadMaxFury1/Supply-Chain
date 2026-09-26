@@ -1,0 +1,9 @@
+supplier_id,name,reliability_score,country
+SUP-01,"Rodriguez, Figueroa and Sanchez Pharma Ingredients",0.9,USA
+SUP-02,Doyle Ltd Pharma Ingredients,0.92,Switzerland
+SUP-03,"Mcclain, Miller and Henderson Pharma Ingredients",0.52,Germany
+SUP-04,Davis and Sons Pharma Ingredients,0.91,Germany
+SUP-05,"Guzman, Hoffman and Baldwin Pharma Ingredients",0.89,USA
+SUP-06,"Gardner, Robinson and Lawrence Pharma Ingredients",0.76,Switzerland
+SUP-07,Blake and Sons Pharma Ingredients,0.8,USA
+SUP-08,"Henderson, Ramirez and Lewis Pharma Ingredients",0.88,Japan
